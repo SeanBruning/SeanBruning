@@ -1,34 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sean Bruning
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Sean Bruning</h1>
+<h3 align="center">A passionate frontend developer from South Africa</h3>
 
-Graduate Web Developer
------------------------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seanbruning" alt="seanbruning" /></a> </p>
 
-I discovered web development after feeling unfulfilled in various jobs. The excitement of problem-solving and learning led me to pursue it. I started with a coding challenge and enrolled in a frontend development bootcamp at Bath Spa University. Currently, I'm learning HTML, CSS, and Javascript to build a strong foundation. Web development's ever-evolving nature motivates me to stay up-to-date through reading, blogs, and tutorials. It has become my passion, and I'm constantly seeking challenges to excel. With my newfound knowledge and enthusiasm, I'm confident in achieving my goal of becoming the best developer I can be.
+- 🌱 I’m currently learning **.Net Maui, C# & SQL**
 
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [sbruning93@gmail.com](mailto:sbruning93@gmail.com)
-* 🧠  I'm learning Frontend
-* ⚡  The best advice I ever received was, Pursue your passions: Follow your heart and engage in activities that bring you joy and fulfillment. Passion fuels motivation and success.
+- 📫 How to reach me **seanbruning91@gmail.com**
 
-### Skills
+- ⚡ Advice **Pursue your passions: Follow your heart and engage in activities that bring you joy and fulfillment. Passion fuels motivation and success.**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://linkedin.com/in/seanbruning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seanbruning" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanbruning&show_icons=true&locale=en&layout=compact" alt="seanbruning" /></p>
 
-<p align="left"> <a href="https://www.codepen.io/SeanBru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/SeanBruning" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sean-bruning" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SeanBruning"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SeanBruning&stroke=14b8a6&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="https://github.com/SeanBruning" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanBruning&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seanbruning&" alt="seanbruning" /></p>
